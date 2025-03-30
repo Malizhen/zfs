@@ -150,3 +150,5 @@ with the `zfs-tests.sh` wrapper script will look something like this:
     Running Time:	02:35:33
     Percent passed:	95.6%
     Log directory:	/var/tmp/test_results/20180515T054509
+
+    test proxy
